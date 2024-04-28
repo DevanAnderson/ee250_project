@@ -1,0 +1,4 @@
+Flask
+json
+yfinance
+grovepi

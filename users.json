@@ -1,0 +1,21 @@
+{
+    "user1": {
+      "password": "pass123",
+      "portfolio": {
+        "AAPL": 10,
+        "GOOGL": 5,
+        "MSFT": 20,
+        "cash": 10000
+      }
+    },
+    "user2": {
+      "password": "pass456",
+      "portfolio": {
+        "AAPL": 5,
+        "GOOGL": 15,
+        "MSFT": 30,
+        "cash": 15000
+      }
+    }
+  }
+  
