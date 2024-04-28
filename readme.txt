@@ -6,7 +6,7 @@ Flask
 json
 yfinance
 grovepi
-Requests
+requests
 
 
 How to run:
